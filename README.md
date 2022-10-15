@@ -1,4 +1,10 @@
 # Week-4-Assignment
+## Uygulama videosu
+
+
+https://user-images.githubusercontent.com/61823965/195991903-a858b5de-ae14-4024-b34e-8f283e9d0fd3.mp4
+
+
 
 1. https://openweathermap.org/api kullanılarak bir hava durumu uygulaması geliştirilecektir. 2. https://marvelapp.com/prototype/70f2bha/screen/78478137 Buradan mockup ekranlarına bakabilirsiniz.
 3. OpenWeatherMap’ten alınan API key’in girildiği ekran. Sonraki sayfada çağrılacak hava durumu web servisi bu API key değerini kullanacaktır.
